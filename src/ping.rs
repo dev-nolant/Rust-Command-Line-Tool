@@ -173,6 +173,5 @@ pub fn main(destination: Option<&str>, print_all: bool) {
                 thread::sleep(std::time::Duration::from_secs(1));
             }
         }
-        // Add any necessary ping statistics here
     }
 }
