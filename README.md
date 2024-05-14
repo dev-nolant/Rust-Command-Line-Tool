@@ -30,6 +30,12 @@ Here's a simple example to demonstrate how to use the command-line tool:
 cargo run 
 ```
 
+![alt_text](https://github.com/dev-nolant/Rust-Command-Line-Tool/blob/main/display/image%20(2).png)
+
+#### Ping Example
+
+![alt_text](https://github.com/dev-nolant/Rust-Command-Line-Tool/blob/main/display/image%20(3).png)
+
 ### Project Structure
 - `main.rs`: Contains the main entry point for the application.
 - `ping.rs`: Handles the ping functionality.
